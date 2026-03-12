@@ -147,8 +147,6 @@ start "" wfreerdp.exe /v:!ip! /u:!target_user! /p:"!target_pass!" /multimon /cer
 
 ```
 
-Tüm parametreler için: `wfreerdp.exe /?`
-
 ---
 
 ## 🆚 `wfreerdp` ve `mstsc` Arasındaki Fark
@@ -288,8 +286,6 @@ start "" wfreerdp.exe /v:!ip! /u:!target_user! /p:"!target_pass!" /w:1920 /h:108
 start "" wfreerdp.exe /v:!ip! /u:!target_user! /p:"!target_pass!" /multimon /cert:ignore
 
 ```
-
-For all available parameters run: `wfreerdp.exe /?`
 
 ---
 
