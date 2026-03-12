@@ -12,6 +12,9 @@
 
 ![sample](https://github.com/abdullah-erturk/RDP-wfreerdp-Connection-Tool/blob/main/preview.jpg)
 
+## Link:
+[![Stable?](https://img.shields.io/badge/Release-v1.svg?style=flat)](https://github.com/abdullah-erturk/RDP-wfreerdp-Connection-Tool/archive/refs/heads/main.zip)
+
 ### Genel Bakış
 [`wfreerdp.exe`](https://ci.freerdp.com/job/freerdp-nightly-windows/), açık kaynaklı [`Freerdp.exe`](https://github.com/FreeRDP/FreeRDP) projesine ait bir programdır. Windows’ta Remote Desktop (Uzak Masaüstü) bağlantıları kurmak için kullanılan bir komut satırı istemcisidir. Bu proje wfreerdp.exe dosyasının kullanımını kolaylaştırmak için hazırlanmıştır.
 
