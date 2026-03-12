@@ -14,7 +14,7 @@
 
 </div>
 
-## Link:
+## Download Link:
 [![Stable?](https://img.shields.io/badge/Release-v1.svg?style=flat)](https://github.com/abdullah-erturk/RDP-wfreerdp-Connection-Tool/archive/refs/heads/main.zip)
 
 ### Genel Bakış
