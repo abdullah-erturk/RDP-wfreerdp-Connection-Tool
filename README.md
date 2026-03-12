@@ -12,6 +12,8 @@
 
 ![sample](https://github.com/abdullah-erturk/RDP-wfreerdp-Connection-Tool/blob/main/preview.jpg)
 
+</div>
+
 ## Link:
 [![Stable?](https://img.shields.io/badge/Release-v1.svg?style=flat)](https://github.com/abdullah-erturk/RDP-wfreerdp-Connection-Tool/archive/refs/heads/main.zip)
 
@@ -20,8 +22,6 @@
 
 ### Overview
 [`wfreerdp.exe`](https://ci.freerdp.com/job/freerdp-nightly-windows/) is a program belonging to the open-source [`Freerdp.exe`](https://github.com/FreeRDP/FreeRDP) project. It is a command-line client used to establish Remote Desktop connections in Windows. This project was created to simplify the use of the wfreerdp.exe file.
-
-</div>
 
 ---
 
