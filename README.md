@@ -159,7 +159,7 @@ start "" wfreerdp.exe /v:!ip! /u:!target_user! /p:"!target_pass!" /multimon /cer
 | Taşınabilir (tek .exe) | ❌ | ✅ |
 | Açık kaynak | ❌ | ✅ |
 
-`mstsc`, Windows oturumu ve LSASS gibi sistem servislerine bağımlıdır. `wfreerdp` ise RDP protokolünü bağımsız olarak implemente ettiğinden WinPE, SYSTEM hesabı ve kurulum ortamlarında sorunsuz çalışır.
+`mstsc`, Windows oturumu ve LSASS (Yerel Güvenlik Yetkilisi Alt Sistem Hizmeti) gibi sistem servislerine bağımlıdır. `wfreerdp` ise RDP protokolünü bağımsız olarak implemente ettiğinden WinPE, SYSTEM hesabı ve kurulum ortamlarında sorunsuz çalışır.
 
 ---
 
@@ -299,7 +299,7 @@ start "" wfreerdp.exe /v:!ip! /u:!target_user! /p:"!target_pass!" /multimon /cer
 | Portable (single .exe) | ❌ | ✅ |
 | Open source | ❌ | ✅ |
 
-`mstsc` depends on Windows session infrastructure and system services like LSASS. `wfreerdp` implements the RDP protocol independently, making it work seamlessly in WinPE, under the SYSTEM account, and in deployment environments where no user session exists.
+`mstsc` depends on Windows session infrastructure and system services like LSASS (Local Security Authority Subsystem Service). `wfreerdp` implements the RDP protocol independently, making it work seamlessly in WinPE, under the SYSTEM account, and in deployment environments where no user session exists.
 
 ---
 
